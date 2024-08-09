@@ -1,0 +1,1 @@
+print('h'+'e'*input().rstrip().count('e')*2+'y')
